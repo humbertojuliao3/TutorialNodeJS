@@ -1,0 +1,25 @@
+{
+  "name": "tutorialnodejs",
+  "version": "1.0.0",
+  "description": "Tutorial WebService com Node.JS e ClKit",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/humbertojuliao3/TutorialNodeJS.git"
+  },
+  "author": "Humberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/humbertojuliao3/TutorialNodeJS/issues"
+  },
+  "homepage": "https://github.com/humbertojuliao3/TutorialNodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "node-fetch": "^1.4.1",
+    "validator": "^5.1.0"
+  }
+}
